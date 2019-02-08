@@ -27,3 +27,9 @@ this.handleClick doesnt have ending (), because that will make it run when websi
 not having the (), basically means, only do this when i activate it, rather than activate on page Load 
 
 <input type="text" required placeholder="Store Name" defaultValue={getFunName()} />
+
+
+<!-- --------------------------------------------IMPORTANT FUNCTOINS ---------------------------------------------------------------------------------- -->
+componentDidMount(){
+
+}
