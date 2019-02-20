@@ -33,3 +33,6 @@ not having the (), basically means, only do this when i activate it, rather than
 componentDidMount(){
 
 }
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------ -->
+Any custom function that needs to update state needs to live in the same component/file our state lives. 
