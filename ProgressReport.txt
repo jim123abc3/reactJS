@@ -1,4 +1,1 @@
-On Chapter 14 - 
-
-
-window.optimax.utilities.readCookie("je-location");
+On Chapter 15 - Diplaying State JSX
